@@ -6,7 +6,7 @@
     * Deskripsikan secara singkat pemahaman anda tentang `function, method, variable` dan `attribute` dalam paradigma pemprograman. (boleh dijawab dengan menggunakan ilustrasi diagram)
 2. Django Project
     * Lanjutkan project Mandalika Lombok (Web Portal) yang anda buat di pertemuan terkhir dengan:
-      - Tambahkan secukupnya data di
+      - Tambahkan data berita secukupnya melalui django admin
       - Rapikan jumbotron, about, account media sosial, footer dengan mengisi konten teks sesuai dengan topik (Mandalika Lombok)
       - Munculkan field/atribut cover dan kategori berita di detail (yang sebelumnya hanya tampil title, author, content dan created_at)
     * Deskripsikan secara singkat pemahan anda tentang `git, github, bitbucket` dan `gitlab` (boleh dijawab dengan menggunakan ilustrasi diagram)
