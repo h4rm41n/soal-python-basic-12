@@ -1,1 +1,0 @@
-# soal-python-basic-12
